@@ -1,0 +1,82 @@
+-AC SA
+-Audi SA
+-Abarth SA
+-Aston Martin SA
+-Alfa Romeo SA
+Volkswagen SA	
+Renault SA	
+Porsche SA
+Toyota SA	
+Jeep SA	
+Jaguar SA
+BMW SA	
+Opel SA	
+Fiat SA
+Mercs SA	
+Honda SA	
+Lexus SA
+Hyundai SA	
+Isuzu SA	
+GWM SA
+Ford SA	
+Mitsubishi SA	
+Dodge SA
+Nissan SA	
+Mazda SA	
+Citroen SA
+
+Mini SA	
+Tata SA
+Chevrolet SA	
+Volvo SA	
+Infiniti SA
+Land Rover SA	
+Peugeot SA	
+Mahindra SA
+Kia SA	
+Suzuki SA	
+Datsun SA
+Subaru SA	
+	
+Chery SA
+Chrysler SA	
+Mercedes AMG SA	
+Ferrari SA
+MG SA	
+Daihatsu SA	
+Maserati SA
+Ssangyong SA	
+Foton SA	
+Mclaren SA
+
+Geely SA	
+Rolls Royce SA
+Smart SA	
+Hummer SA	
+Mg Motor Uk SA
+Bentley SA	
+Lamborghini SA	
+Faw SA
+Proton SA	
+Jmc SA	Dfsk SA
+
+Cadillac SA	
+Cmc SA
+SEAT SA	
+Chana SA	
+Daewoo SA
+Saab SA	
+Golden Journey SA	
+Daimler SA
+Birkin SA	
+Maxus SA	
+Gonow SA
+Cam SA	
+Rover SA	
+Holden SA
+Jinbei SA	
+Lotus SA	
+
+Morris SA
+
+DELETE FROM `rentcar`.`users` WHERE `users`.`id` = 11;
